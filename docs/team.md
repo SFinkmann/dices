@@ -19,7 +19,7 @@ permalink: /team/
   <li>Mathijs Clement</li>
   <li>Merle Kallet</li>
   <li>Anne Lautenschlager</li>
-  <li>Wyatt Stragg</li>
+  <li>Wyatt Stagg</li>
   <li>Vic Vandendriessche</li>
   <li>Jarno Vercamer</li>
 </ul>
