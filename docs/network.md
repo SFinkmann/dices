@@ -21,13 +21,15 @@ The initiative for this new network was taken by the <a href="/dices">DICES proj
 <h4>Advisory Board</h4>
 
 <ul style="list-style-type: none">
+  <li><strong>Silvio Bär</strong>, University of Oslo</li>
   <li><strong>Deborah Beck</strong>, University of Texas at Austin</li>
+  <li><strong>Neil Coffee</strong>, University at Buffalo</li>
   <li><strong>Irene de Jong</strong>, University of Amsterdam</li>
   <li><strong>William Dominik</strong>, University of Lisbon</li>
   <li><strong>Greta Hawes</strong>, Australian National University</li>
   <li><strong>Jacqueline Klooster</strong>, University of Groningen</li>
   <li><strong>Damien Nelis</strong>, University of Geneva</li>
-  <li><strong>Matteo Romanello</strong>, École Polytechnique Fédérale de Lausanne</li>
+  <li><strong>Matteo Romanello</strong>, University of Lausanne</li>
   <li><strong>R. Scott Smith</strong>, University of New Hampshire</li>
   <li><strong>Tim Whitmarsh</strong>, University of Cambridge</li>
 </ul>
